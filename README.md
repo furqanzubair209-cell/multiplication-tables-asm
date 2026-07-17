@@ -1,5 +1,3 @@
-# multiplication-tables-asm
-16-bit MASM program to print multiplication tables from 1 to 20 using DOS interrupts.
 # Multiplication Tables in MASM
 
 This repository contains an **8086 Assembly language program** written in **MASM** that prints multiplication tables from **1 to 20**. The program demonstrates the use of loops, multiplication, DOS interrupts for output, and procedures to print numbers.
